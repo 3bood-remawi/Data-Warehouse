@@ -14,7 +14,7 @@ movie-rental-data-warehouse/
 │   └── Movie_Rental_DW_Report.md         ← Full written report (all 7 sections)
 │
 ├── diagrams/
-│   └── dimensional_model_diagram.png     ← Star/Snowflake schema diagram
+│   └── dimensional_model_diagram.png     ← using hybrid star/snowflake schema principles
 │
 └── sql/
     └── create_dw_schema.sql              ← Full DDL for the data warehouse

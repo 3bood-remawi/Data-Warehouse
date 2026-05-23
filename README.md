@@ -2,7 +2,7 @@
 
 > A complete high-level Data Warehouse design based on the Sakila OLTP Movie Rental schema — built for a Data Warehousing / Data Architecture course assignment.
 
----
+----
 
 ## 📁 Repository Structure
 
